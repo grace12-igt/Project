@@ -71,7 +71,8 @@ display: flex;
 }
 .col-3 img{
     width: 100%;
-    display: flex;
+    height: auto;
+    
 }
 .small-container{
     max-width: 1080px;
